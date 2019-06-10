@@ -34,3 +34,9 @@ This endpoint was tested using Postman. To get the relevent data, use endpoint:
 ```
 localhost:5000/user/<username>
 ```
+
+## Extra Challenge
+Wasn't able to get this working just yet. So far, only pulling in the repos of the given user. To see progress, use endpoint:
+```
+localhost:5000/test/user/<username>
+```
